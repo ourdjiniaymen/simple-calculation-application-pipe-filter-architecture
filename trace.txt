@@ -1,0 +1,13 @@
+opérand1 = 5, opérand2 = 5, opération = SOMME, résultat = 10
+opérand1 = 5, opérand2 = 10, opération = SOMME, résultat = 15
+opérand1 = 5, opérand2 = 4, opération = SOMME, résultat = 9
+opérand1 = 6, opérand2 = 1, opération = SOMME, résultat = 7
+opérand1 = 5, opérand2 = 10, opération = SOMME, résultat = 15
+opérand1 = 5, opérand2 = 10, opération = SOMME, résultat = 15
+opérand1 = 5, opérand2 = 4, opération = SOMME, résultat = 9
+opérand1 = 5, opérand2 = 10, opération = SOMME, résultat = 15
+opérand1 = 5, opérand2 = 6, opération = SOMME, résultat = 11
+opérand1 = 5, opérand2 = 6, opération = PRODUIT, résultat = 30
+opérand1 = 5, opérand2 = 6, opération = FACT, résultat = 120
+opérand1 = 5, opérand2 = 6, opération = SOMME, résultat = 11
+opérand1 = 10, opérand2 = 10, opération = SOMME, résultat = 20

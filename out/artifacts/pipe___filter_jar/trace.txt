@@ -1,0 +1,5 @@
+opérand1 = 3, opérand2 = 1, opération = SOMME, résultat = 4
+opérand1 = 100, opérand2 = 1, opération = PRODUIT, résultat = 100
+opérand1 = 100, opérand2 = 1, opération = SOMME, résultat = 101
+opérand1 = 100, opérand2 = 1, opération = FACT, résultat = 0
+opérand1 = 1, opérand2 = 1, opération = SOMME, résultat = 2
